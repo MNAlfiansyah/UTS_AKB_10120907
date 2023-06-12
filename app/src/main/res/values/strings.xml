@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">uts_akb_10120907</string>
+    <string name="title_home">Home</string>
+    <string name="title_daily_activity">Daily Activity</string>
+    <string name="title_gallery">Gallery</string>
+    <string name="title_music">Music</string>
+    <string name="title_profile">Profile</string>
+    <string name="skip">Skip</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="start">Start</string>
+    <string name="explore">Explore My world</string>
+    <string name="txtcontinue">Continue</string>
+    <string name="hello_there_nyou_probably_wondering">Hello there \nyou probably wondering.</string>
+    <string name="who_is_johndy_panca">Who is Johndy Panca ?</string>
+    <string name="desc">You can call me Alvin, a super enthusiastic learner who loves diving into new stuff. I`m all about making new buddies too, `cause having a wide network is my jam.</string>
+    <string name="descimg1">I`m all about the gym, smashing shuttlecocks on the badminton court, hanging out with friends, and diving deep into the captivating world of trading, constantly seeking to expand my knowledge.</string>
+    <string name="descimg2">Trading has become my passion, I"ve explored various avenues to sharpen my skills, constantly pushing myself to new limits. But you know what? The captivating world of business has also captivated my attention! I'm driven by the thrill of taking risks and making strategic moves. Let's embark on this exhilarating journey together, and conquer new horizons!</string>
+    <string name="descimg3">I love mie goreng.</string>
+    <string name="descimg4">Matcha are my favorite drink, if someone say matcha not good there somethink wrong with his tongue!</string>
+    <string name="descimg5">So my dream was very simple, that i can have a truck for distribute my product.</string>
+    <string name="desc2">That all everything about me, if you want more you can catch me up on my social media.</string>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#5DA3C0"
+    >
+
+        <ImageView
+            android:id="@+id/dailyactivityimg"
+            android:layout_width="@dimen/_100dp"
+            android:layout_height="@dimen/_100dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="15dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            android:layout_marginBottom="16dp" />
+
+        <TextView
+            android:id="@+id/dailyactivitytitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_22dp"
+            android:layout_marginTop="20dp"
+            android:textColor="#F8F8F8"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toEndOf="@id/dailyactivityimg"
+            app:layout_constraintTop_toTopOf="@id/dailyactivityimg" />
+
+        <TextView
+            android:id="@+id/dailyactivitydesc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_4dp"
+            android:textColor="#F8F8F8"
+            android:textSize="11sp"
+            app:layout_constraintStart_toStartOf="@id/dailyactivitytitle"
+            app:layout_constraintTop_toBottomOf="@id/dailyactivitytitle" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
